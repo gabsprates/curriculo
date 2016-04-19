@@ -1,0 +1,34 @@
+{
+  "certificados": [
+    {
+      "titulo": "Fluência Duolingo em Inglês: Elementar (estimativa)",
+      "por": "Duolingo",
+      "data": "março de 2016"
+    }, {
+      "titulo": "Fluência Duolingo em Espanhol: Avançado (estimativa)",
+      "por": "Duolingo",
+      "data": "março de 2016"
+    }, {
+      "titulo": "Palestra: Animações com CSS3",
+      "por": "CEBRAC",
+      "data": "março de 2016"
+    }, {
+      "titulo": "Comissão Organizadora da I Semana da Engenharia de Sistemas",
+      "por": "Universidade Estadual de Montes Claros",
+      "data": "novembro de 2015"
+    }, {
+      "titulo": "Servidores Linux",
+      "por": "IFNMG",
+      "data": "fevereiro de 2013"
+    }, {
+      "titulo": "II Workshop de Segurança da Informação",
+      "por": "FACET - Santo Agostinho",
+      "data": "setembro de 2012"
+    }
+  ],
+  "settings": {
+    "titulo": "Certificados",
+    "icon-type": null,
+    "icon-src": null
+  }
+}

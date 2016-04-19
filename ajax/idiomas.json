@@ -1,0 +1,21 @@
+{
+  "idiomas": [
+    {
+      "lingua": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "lingua": "Espanhol",
+      "nivel": "Avançado"
+    },
+    {
+      "lingua": "Inglês",
+      "nivel": "Intermediário"
+    }
+  ],
+  "settings": {
+    "titulo": "Idiomas",
+    "icon-type": null,
+    "icon-src": null
+  }
+}

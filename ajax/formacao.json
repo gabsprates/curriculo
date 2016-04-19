@@ -1,0 +1,18 @@
+{
+  "formacao": [
+    {
+      "curso": "Sistemas de Informação",
+      "instituicao": "Facomp - Faculdades de Computação de Montes Claros/MG",
+      "data": "2016 - atual"
+    }, {
+      "curso": "Engenharia de Sistemas",
+      "instituicao": "Universidade Estadual de Montes Claros",
+      "data": "2013 - 2015"
+    }
+  ],
+  "settings": {
+    "titulo": "Formação",
+    "icon-type": null,
+    "icon-src": null
+  }
+}

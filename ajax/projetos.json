@@ -1,0 +1,45 @@
+{
+  "projetos": [
+    {
+      "titulo": "Brasil Cachaçaria",
+      "data": "junho de 2014",
+      "sobre": "Desenvolvimento Front e Back-end da loja virtual da Brasil Cachaçaria, revendedora autorizada APACS das Cachaças Artesanais de Salinas.",
+      "url": "http://brasilcachacaria.com.br"
+    }, {
+      "titulo": "Blog Let's Go",
+      "data": "fevereiro de 2016",
+      "sobre": "Desenvolvimento Front e Back-end para o blog Let's Go, da Letícia Turano.",
+      "url": "http://letsgoblog.com.br"
+    }, {
+      "titulo": "Life - Automação Residencial",
+      "data": "dezembro de 2014",
+      "sobre": "Desenvolvimento Front e Back-end do site institucional da Life - Automação Residencial.",
+      "url": "http://lifeautomacao.com.br"
+    }, {
+      "titulo": "Faculdade de Direito Santo Agostinho",
+      "data": "abril de 2015",
+      "sobre": "Desenvolvimento Front e Back-end do site.",
+      "url": "http://direito.fasa.edu.br"
+    }, {
+      "titulo": "Portal Eventos",
+      "data": "junho de 2015",
+      "sobre": "Desenvolvimento Front e Back-end do site.",
+      "url": "http://portaleventosmoc.com.br"
+    }, {
+      "titulo": "Amil Confecções",
+      "data": "2013",
+      "sobre": "Desenvolvimento Front-end.",
+      "url": "http://amilconfeccoes.com.br"
+    }, {
+      "titulo": "freteCorreios",
+      "data": "janeiro de 2016",
+      "sobre": "A API de cálculo de frete que os Correios disponibilizam retorna o valor de um pacote. Isso pode ser perigoso, já que se somar os valores de itens da forma incorreta, pode tornar a compra inviável. Por este motivo, foi desenvolvido este módulo que faz a cubagem dos itens, contando seu peso cúbico, volume e medidas, máximas e mínimas, segundo as especificações da empresa dos Correios.",
+      "url": "https://github.com/gigapix/freteCorreios"
+    }
+  ],
+  "settings": {
+    "titulo": "Projetos",
+    "icon-type": null,
+    "icon-src": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "experiencias": [
+    {
+      "cargo": "Desenvolvedor web líder",
+      "empresa": "Gigapix Estúdio Multimídia",
+      "periodo": "fevereiro de 2015 - até o momento",
+      "descricao": "Responsável por gerenciar projetos e atuar no desenvolvimento de alguns deles."
+    }, {
+      "cargo": "Desenvolvedor freelancer",
+      "empresa": "Freelancer",
+      "periodo": "novembro de 2013 - janeiro de 2015 (1 ano 3 meses)",
+      "descricao": "Desenvolvimento Front-end e Back-end do projeto, baseado em layouts de terceiros."
+    }, {
+      "cargo": "Auxiliar de programador",
+      "empresa": "Gigapix Estúdio Multimídia",
+      "periodo": "julho de 2012 - julho de 2013 (1 ano 1 mês)",
+      "descricao": "Desenvolvimento Front-end, baseado no layout disponibilizado pela empresa."
+    }, {
+      "cargo": "Auxiliar de programador",
+      "empresa": "BlackBox Multimídia",
+      "periodo": "fevereiro de 2012 - julho de 2012 (6 meses)",
+      "descricao": "Desenvolvimento Front-end, baseado no layout disponibilizado pela empresa."
+    }
+  ],
+  "settings": {
+    "titulo": "Experiências",
+    "icon-type": null,
+    "icon-src": null
+  }
+}

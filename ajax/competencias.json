@@ -1,0 +1,46 @@
+{
+  "competencias": [
+    {
+      "titulo": "HTML",
+      "icon": ""
+    }, {
+      "titulo": "CSS",
+      "icon": ""
+    }, {
+      "titulo": "JavaScript",
+      "icon": ""
+    }, {
+      "titulo": "PHP",
+      "icon": ""
+    }, {
+      "titulo": "SQL",
+      "icon": ""
+    }, {
+      "titulo": "Git",
+      "icon": ""
+    }, {
+      "titulo": "SASS",
+      "icon": ""
+    }, {
+      "titulo": "Bootstrap",
+      "icon": ""
+    }, {
+      "titulo": "AJAX",
+      "icon": ""
+    }, {
+      "titulo": "jQuery",
+      "icon": ""
+    }, {
+      "titulo": "GNU/Linux",
+      "icon": ""
+    }, {
+      "titulo": "Windows",
+      "icon": ""
+    }
+  ],
+  "settings": {
+    "titulo": "Competências",
+    "icon-type": null,
+    "icon-src": null
+  }
+}
