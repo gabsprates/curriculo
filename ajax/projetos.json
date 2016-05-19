@@ -35,6 +35,11 @@
       "data": "janeiro de 2016",
       "sobre": "A API de cálculo de frete que os Correios disponibilizam retorna o valor de um pacote. Isso pode ser perigoso, já que se somar os valores de itens da forma incorreta, pode tornar a compra inviável. Por este motivo, foi desenvolvido este módulo que faz a cubagem dos itens, contando seu peso cúbico, volume e medidas, máximas e mínimas, segundo as especificações da empresa dos Correios.",
       "url": "https://github.com/gigapix/freteCorreios"
+    }, {
+      "titulo": "Tradução da série de livros - You Don't Know JS",
+      "data": "abril de 2016",
+      "sobre": "Projeto inicializado pelo Cezar Augusto, tem o objetivo de traduzir a série de livros de JavaScript: You Don't Know JS, escrita originalmente por Kyle Simpson. A tradução é em caráter voluntário e tem como único objetivo disponibilizar a comunidade o conteúdo do livro em português.",
+      "url": "https://github.com/cezaraugusto/You-Dont-Know-JS"
     }
   ],
   "settings": {
